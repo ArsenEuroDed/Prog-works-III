@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Курсовая работа\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\User\Desktop\Курсовая работа\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\User\Desktop\Курсовая работа\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\User\Desktop\Курсовая работа\WindowsFormsApp1\obj\Debug\Kursovaya_rabota.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Курсовая работа\WindowsFormsApp1\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\User\Desktop\Курсовая работа\WindowsFormsApp1\obj\Debug\Kursovaya_rabota.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\Курсовая работа\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\User\Desktop\Курсовая работа\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\User\Desktop\Курсовая работа\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Publish.resources
+C:\Users\User\Desktop\Курсовая работа\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Year.resources
+C:\Users\User\Desktop\Курсовая работа\WindowsFormsApp1\obj\Debug\Kursovaya_rabota.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Курсовая работа\WindowsFormsApp1\obj\Debug\Kursovaya_rabota.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Курсовая работа\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\User\Desktop\Курсовая работа\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
