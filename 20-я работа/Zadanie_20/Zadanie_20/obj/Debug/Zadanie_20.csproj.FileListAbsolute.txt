@@ -1,0 +1,8 @@
+c:\users\arsenchik\documents\visual studio 2015\Projects\Zadanie_20\Zadanie_20\bin\Debug\Zadanie_20.exe.config
+C:\Users\Arsenchik\documents\visual studio 2015\Projects\Zadanie_20\Zadanie_20\obj\Debug\Zadanie_20.csprojResolveAssemblyReference.cache
+C:\Users\Arsenchik\documents\visual studio 2015\Projects\Zadanie_20\Zadanie_20\obj\Debug\Zadanie_20.Properties.Resources.resources
+C:\Users\Arsenchik\documents\visual studio 2015\Projects\Zadanie_20\Zadanie_20\obj\Debug\Zadanie_20.csproj.GenerateResource.Cache
+C:\Users\Arsenchik\documents\visual studio 2015\Projects\Zadanie_20\Zadanie_20\bin\Debug\Zadanie_20.exe
+C:\Users\Arsenchik\documents\visual studio 2015\Projects\Zadanie_20\Zadanie_20\bin\Debug\Zadanie_20.pdb
+C:\Users\Arsenchik\documents\visual studio 2015\Projects\Zadanie_20\Zadanie_20\obj\Debug\Zadanie_20.exe
+C:\Users\Arsenchik\documents\visual studio 2015\Projects\Zadanie_20\Zadanie_20\obj\Debug\Zadanie_20.pdb
